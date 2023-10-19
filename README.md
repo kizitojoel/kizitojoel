@@ -4,15 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=095AFF&width=435&lines=Full+Stack+Web+Developer;Experienced+in+Node.js+and+Flask" alt="Typing SVG" /></a>
 
 ### Hi 👋
-My name is Joel Kizito and I am a budding full stack developer currently living in Kenya. I specialise in both frontend and backend development with particular proficiency in Flask, Node.js and React. My interest in computer science stems from the fact that I can combine it with my other passions to develop meaningful projects that can impact someone's activities while giving me fulfilment from what they achieve.
+My name is Joel Kizito and I am a computer science student at Harvard College in Massachussetts. I specialise in both frontend and backend development with experience in Flask, NodeJs, webpack and growing experience in Node.js. My interest in computer science stems from the fact that I can combine it with my other passions to develop meaningful projects that can impact someone's activities while giving me fulfilment from what they achieve.
 
 ### About Me
 
 🔭 I’m currently working on my guitar journal project, a fully fledged web application that nurtures acoustic guitar students as they learn musical theory and strengthen their technical expertise. The web application is meant for relatively small workflow(my two mentees from my local band), hence it is built using Flask for the backend and HTML, CSS, and Vanilla Javascript for the front end
 
 🌱 I’m currently learning full stack web development through a variety of courses. The Odin Project, CS50x, and ALX Software Engineering Program
-
--⚡ Fun fact: I'm a proud supporter of Arsenal F.C.
 
 
 ### Skills
