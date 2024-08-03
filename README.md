@@ -7,6 +7,7 @@
 My name is Joel Kizito and I am a computer science student at Harvard College in Massachussetts. I specialise in both frontend and backend development with experience in Flask, NodeJs, webpack and growing experience in Node.js. My interest in computer science stems from the fact that I can combine it with my other passions to develop meaningful projects that can impact someone's activities while giving me fulfilment from what they achieve.
 
 ### About Me
+You can check out my portfolio at [joelkizito.com](https://joelkizito.com)
 
 🔭 I’m currently working on my guitar journal project, a fully fledged web application that nurtures acoustic guitar students as they learn musical theory and strengthen their technical expertise. The web application is meant for relatively small workflow(my two mentees from my local band), hence it is built using Flask for the backend and HTML, CSS, and Vanilla Javascript for the front end
 
@@ -38,7 +39,5 @@ My name is Joel Kizito and I am a computer science student at Harvard College in
 <a href="http://www.github.com/kizitojoel"><img src="https://github-readme-stats.vercel.app/api?username=kizitojoel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=6366f1&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kizitojoel's GitHub stats" /></a>
 
 <a href="http://www.github.com/kizitojoel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kizitojoel&stroke=6366f1&background=000000&ring=3382ed&fire=3382ed&currStreakNum=6366f1&currStreakLabel=3382ed&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-
-<a href="http://www.github.com/kizitojoel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kizitojoel&bg_color=000000&color=6366f1&line=0891b2&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/kizitojoel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizitojoel&langs_count=10&title_color=3382ed&text_color=6366f1&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
